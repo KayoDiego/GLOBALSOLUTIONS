@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="GLOBALSOLUTIONSDMD" id="69346A4E-AAEA-A391-7054-FC86DD13078B" version="3.5">
+<createdBy>Kayo</createdBy>
+<createdTime>2024-11-14 19:23:07 UTC</createdTime>
+<ownerDesignName>GLOBALSOLUTIONSDMD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>69346A4E-AAEA-A391-7054-FC86DD13078B</designId>
+</OSDM_Design>
